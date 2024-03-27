@@ -44,8 +44,6 @@ After execution, the transformed data will be saved in transformed_data.xlsx.
 country_data.xlsx: Output file from the scraping process.
 
 transformed_data.xlsx: Output file from the ETL process.
-Contributing
-Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Development files
 Ensure to ignore any development files such as Jose.py while running or working on the project.
